@@ -1,0 +1,2 @@
+# wordsReactArrayAsProps
+Created with CodeSandbox
